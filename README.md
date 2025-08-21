@@ -1,2 +1,32 @@
-# Taco-Sales-Time-Series-Analysis
-Time series analysis of taco sales data, including data preprocessing, visualization, and forecasting with recurrent neural networks (RNNs).
+# Time Series Forecasting of Taco Sales
+This repository contains my portion of a group project, focusing exclusively on **time series analysis and forecasting** of taco sales data.  
+The notebook explores data preprocessing, visualization, and modeling sales trends using statistical and neural network approaches.
+
+## Overview
+This repo includes:
+- The **original** notebook with outputs (`Taco_TimeSeries.ipynb`).
+- Environment file (`requirements.txt`), license, and supporting project files.
+
+## Dataset
+- Source: Kaggle Taco Sales Dataset (2024–2025).  
+- Data files are not included. Place them under `data/` locally if you want to re-run the notebook.
+
+## Methods
+The notebook demonstrates:
+- Data exploration and preprocessing
+- Time series visualization
+- Forecasting with Recurrent Neural Networks (RNNs)
+
+## Quickstart
+```bash
+# 1) Clone
+git clone <your-repo-url>.git
+cd taco-time-series
+
+# 2) Create environment (pip)
+python -m venv .venv
+source .venv/bin/activate  # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+
+# 3) Launch
+jupyter lab   # or jupyter notebook
