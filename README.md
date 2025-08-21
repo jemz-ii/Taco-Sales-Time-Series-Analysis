@@ -3,7 +3,7 @@ This repository contains my individual contribution from a larger group project,
 
 It includes the following files:
 - `Taco_TimeSeries.ipynb` — Jupyter Notebook with full analysis, visualizations, and forecasting results.  
-- `taco_forecasting.py` — Script version of the notebook for a cleaner, software-style implementation.  
+- `Taco_TimeSeries.py` — Script version of the notebook for a cleaner, software-style implementation.  
 - `README.md` — Project description, setup instructions, and documentation. 
 
 ## Dataset
