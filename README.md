@@ -1,6 +1,5 @@
 # Time Series Forecasting of Taco Sales
-This repository contains my individual contribution from a larger group project, focusing exclusively on **time series analysis and forecasting** of taco sales data.  
-The notebook explores data preprocessing, visualization, and modeling sales trends using statistical and neural network approaches.
+This repository contains my individual contribution from a larger group project, focusing exclusively on **time series analysis and forecasting** of taco sales data. It explores data preprocessing, visualization, and modeling sales trends using statistical and neural network approaches.
 
 It includes the following files:
 - `Taco_TimeSeries.ipynb` — Jupyter Notebook with full analysis, visualizations, and forecasting results.  
