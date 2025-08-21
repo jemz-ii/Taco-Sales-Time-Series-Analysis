@@ -2,11 +2,6 @@
 This repository contains my portion of a group project, focusing exclusively on **time series analysis and forecasting** of taco sales data.  
 The notebook explores data preprocessing, visualization, and modeling sales trends using statistical and neural network approaches.
 
-## Overview
-This repo includes:
-- The **original** notebook with outputs (`Taco_TimeSeries.ipynb`).
-- Environment file (`requirements.txt`), license, and supporting project files.
-
 ## Dataset
 - Source: Kaggle Taco Sales Dataset (2024–2025).  
 - Data files are not included. Place them under `data/` locally if you want to re-run the notebook.
