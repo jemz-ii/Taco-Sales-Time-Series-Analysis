@@ -3,8 +3,8 @@ This repository contains my portion of a group project, focusing exclusively on 
 The notebook explores data preprocessing, visualization, and modeling sales trends using statistical and neural network approaches.
 
 ## Dataset
-- Source: Kaggle Taco Sales Dataset (2024–2025).  
-- Data files are not included. Place them under `data/` locally if you want to re-run the notebook.
+- Source: [Kaggle Taco Sales Dataset (2024–2025)](https://www.kaggle.com/datasets/atharvasoundankar/taco-sales-dataset-20242025/data)  
+- License: MIT (see dataset page for details).  
 
 ## Methods
 The notebook demonstrates:
